@@ -1,7 +1,7 @@
 # Atlanta Signalized Intersections Dashboard
 
 ## Project Overview
-This project analyzes affordable housing developments throughout the City of Atlanta using publicly available GIS data. The objective is to identify development trends, visualize project locations, and create executive dashboards that support data-driven decision making.
+This project analyzes signalized intersections throughout the City of Atlanta using publicly available ArcGIS REST API data. The data was imported into Excel using Power Query, transformed for analysis, and summarized with PivotTables. An executive dashboard was created to identify the neighborhoods with the highest concentration of signalized intersections and present key findings through KPI cards and data visualizations.
 
 ## Business Problem
 Determine where affordable housing projects are occurring throughout Atlanta.
