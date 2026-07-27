@@ -6,6 +6,12 @@ This project analyzes signalized intersections throughout the City of Atlanta us
 ## Business Problem
 Determine which Atlanta neighborhoods contain the highest concentration of signalized intersections and present the results through an executive dashboard.
 
+## Key Insights
+- Downtown contains the highest number of signalized intersections (156).
+- Midtown ranks second with 86 intersections.
+- Downtown represents approximately 38% of all mapped signalized intersections.
+- The dashboard highlights the top 10 neighborhoods by intersection count.
+
 ## Tools Used
 - Excel
 - Power Query
