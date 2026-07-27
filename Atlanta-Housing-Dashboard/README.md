@@ -21,6 +21,14 @@ Determine which Atlanta neighborhoods contain the highest concentration of signa
 - ArcGIS REST API
 - GitHub
 
+## Project Process
+1. Connected to the City of Atlanta ArcGIS REST API.
+2. Imported the JSON data into Excel using Power Query.
+3. Cleaned and transformed the dataset.
+4. Built PivotTables to summarize neighborhood statistics.
+5. Designed KPI cards and executive dashboard.
+6. Published the completed project to GitHub.
+
 ## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
