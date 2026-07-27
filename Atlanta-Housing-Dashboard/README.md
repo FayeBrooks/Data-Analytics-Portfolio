@@ -13,11 +13,13 @@ Determine which Atlanta neighborhoods contain the highest concentration of signa
 - The dashboard highlights the top 10 neighborhoods by intersection count.
 
 ## Tools Used
-- Excel
+- Microsoft Excel
 - Power Query
-- Pivot Tables
-- Power BI
+- PivotTables
+- KPI Cards
+- Data Visualization
 - ArcGIS REST API
+- GitHub
 
 ## Skills Demonstrated
 - Data Cleaning
