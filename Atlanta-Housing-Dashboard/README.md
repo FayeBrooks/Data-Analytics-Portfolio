@@ -21,7 +21,7 @@ Determine which Atlanta neighborhoods contain the highest concentration of signa
 - Data Visualization
 
 ## Dashboard
-(Screenshots will be added here.)
+![Atlanta Signalized Intersections Dashboard](Dashboard.png)
 
 ## Files
 - Excel Workbook
