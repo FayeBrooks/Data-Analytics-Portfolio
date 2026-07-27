@@ -4,7 +4,7 @@
 This project analyzes signalized intersections throughout the City of Atlanta using publicly available ArcGIS REST API data. The data was imported into Excel using Power Query, transformed for analysis, and summarized with PivotTables. An executive dashboard was created to identify the neighborhoods with the highest concentration of signalized intersections and present key findings through KPI cards and data visualizations.
 
 ## Business Problem
-Determine where affordable housing projects are occurring throughout Atlanta.
+Determine which Atlanta neighborhoods contain the highest concentration of signalized intersections and present the results through an executive dashboard.
 
 ## Tools Used
 - Excel
